@@ -1,6 +1,6 @@
-# Virtual Shopping Store - 2D Gamified Shopping Platform
+# Virtual Shopping Store - 3D Gamified Shopping Platform
 
-A revolutionary 2D virtual shopping experience where users enter as avatars, walk around a virtual store, interact with products, chat with other shoppers in real-time, and receive AI-powered recommendations.
+A revolutionary 3D virtual shopping experience where users enter as avatars, walk around a virtual store, interact with products, chat with other shoppers in real-time, and receive AI-powered recommendations.
 
 ## 🎮 Features
 
