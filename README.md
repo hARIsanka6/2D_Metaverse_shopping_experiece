@@ -408,7 +408,7 @@ Authenticated users can **create their own stores** from the Mall page. Store ow
 | Name | GitHub | Contributions |
 |---|---|---|
 | Harisankar | [@hARIsanka6](https://github.com/hARIsanka6) | Project lead, core architecture, game engine |
-| Jerin Joy | — | Real-time multiplayer, cart system, e-commerce features |
+| Jerin Joy | — |[@jerinjoy004] Real-time multiplayer, cart system, e-commerce features |
 | Karthika Suresh | [@Karthika125](https://github.com/Karthika125) | Product identification (TensorFlow.js), NPC helper, avatar system |
 
 ---
